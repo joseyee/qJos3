@@ -1,5 +1,8 @@
 ### C:\qJos3\AboutMe
 
-> Pocketmine-MP (PHP based) Pre-Dev 😉
+> 📎 -> Pocketmine-MP (PHP based) Pre-Dev
 
-> From 🇪🇦
+> 🇪🇦 -> From Spain
+
+> ⭐ -> 04/02/???? (dd/mm/yy)
+
