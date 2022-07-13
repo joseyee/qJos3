@@ -8,3 +8,5 @@
 
 > 💤 -> "Learned" Languages; html, css, php (javascript & python)
 
+Smth cringy 
+
