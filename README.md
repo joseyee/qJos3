@@ -6,3 +6,5 @@
 
 > ⭐ -> 04/02/???? (dd/mm/yy)
 
+> 💤 -> "Learned" Languages; html, css, php (javascript & python)
+
