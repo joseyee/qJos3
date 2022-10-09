@@ -1,4 +1,3 @@
-### C:/qJos3/AboutMe
+### C:/qJos3/AboutMe.txt
 
-; Spain
-<br> ;
+
