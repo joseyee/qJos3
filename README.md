@@ -1,4 +1,4 @@
-### C:\qJos3\AboutMe
+### C:/qJos3/AboutMe
 
 ; Spain
 <br> ;
